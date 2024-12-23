@@ -18,8 +18,8 @@ A tool that combines Tavily's search capabilities with GPT-4 analysis to generat
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
-cd [repo-name]
+git clone https://github.com/hanson-cheng/lead-research-tool.git
+cd lead-research-tool
 ```
 
 2. Create and activate a virtual environment:
